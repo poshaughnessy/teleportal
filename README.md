@@ -7,6 +7,7 @@
 The idea is to create a free, open repository of Augmented Reality and Virtual Reality content, aimed at educators and students. It would contain 3D assets, categorised/tagged to make them easy to find by topic/curriculum. Teachers and students could then use it to quickly find suitable content for lessons, study or revision.
 
 ![A child using a Hololens to view an AR solar system in class](docs/intro-image-vrscout.jpg)
+
 *Credit: [Pointmedia via vrfocus.com](https://www.vrfocus.com/2017/03/hololens-sees-use-in-norway-classrooms/)*
 
 
