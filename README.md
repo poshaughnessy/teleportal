@@ -42,7 +42,7 @@ Any of the following kinds of skills/experience would be especially useful:
 * Augmented Reality / Virtual Reality
 * 3D modelling/animation
 
-This is not an exclusive list - any assistance would be welcome!
+(This is not an exclusive list - other assistance would be welcome!)
 
 ## (Expected to be) Frequently Asked Questions
 
