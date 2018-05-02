@@ -35,7 +35,7 @@ This will grow and evolve, but as a starting point!
 
 Any of the following kinds of skills/experience would be especially useful:
 
-* Education
+* Education / pedagogy
 * Web design
 * Web development (HTML / CSS / JavaScript)
 * Product management
