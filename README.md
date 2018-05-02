@@ -31,6 +31,8 @@ This will grow and evolve, but as a starting point!
  * Make it possible to view the assets in Augmented Reality
  * (If time), make it possible to view the assets in Virtual Reality too
 
+We will use the [Issues list here on Github](https://github.com/poshaughnessy/webxr-for-learning/issues) to create and manage the tasks.
+
 ## What Kind of Help Would Be Useful?
 
 Any of the following kinds of skills/experience would be especially useful:
