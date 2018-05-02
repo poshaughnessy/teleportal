@@ -40,7 +40,7 @@ Any of the following kinds of skills/experience would be especially useful:
 * Web development (HTML / CSS / JavaScript)
 * Product management
 * Augmented Reality / Virtual Reality
-* 3D modelling/animation
+* 3D modelling / animation
 
 (This is not an exclusive list - other assistance would be welcome!)
 
