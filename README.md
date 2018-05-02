@@ -6,9 +6,10 @@
 
 The idea is to create a free, open repository of Augmented Reality and Virtual Reality content, aimed at educators and students. It would contain 3D assets, categorised/tagged to make them easy to find by topic/curriculum. Teachers and students could then use it to quickly find suitable content for lessons, study or revision.
 
-![A child using a Hololens to view an AR solar system in class](docs/intro-image-vrscout.jpg)
+<img src="docs/ar-solar-system-vrscout.jpg" width="300px" alt="A child using a Hololens to view an AR solar system in class"/>
+<img src="docs/ar-monument-edudemic.jpg" width="300px" alt="A person holding a phone up and seeing an AR monument"/>
 
-*Credit: [Pointmedia via vrfocus.com](https://www.vrfocus.com/2017/03/hololens-sees-use-in-norway-classrooms/)*
+*Credits: [Pointmedia via vrfocus.com](https://www.vrfocus.com/2017/03/hololens-sees-use-in-norway-classrooms/), [edudemic.com](http://www.edudemic.com/wp-content/uploads/2013/06/augmented-reality.png)*
 
 
 ## Technology Background
