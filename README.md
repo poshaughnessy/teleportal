@@ -4,7 +4,7 @@
 
 ## The Idea
 
-Augmented Reality and Virtual Reality can help bring subjects to life and make learning more exciting! The idea for this project is to create a free, open repository of Augmented Reality and Virtual Reality content, aimed at educators and students. It would contain 3D assets, categorised/tagged to make them easy to find by topic/curriculum. Teachers and students could then use it to quickly find suitable content for lessons, study or revision.
+Augmented Reality and Virtual Reality can help bring subjects to life and make learning more exciting! The idea for this project is to create a free, open repository of Augmented Reality and Virtual Reality content / learning experiences, aimed at educators and students. It would contain 3D assets, categorised/tagged to make them easy to find by topic/curriculum. Teachers and students could then use it to quickly find suitable content for lessons, study or revision.
 
 <img src="docs/ar-solar-system-vrscout.jpg" width="300px" alt="A child using a Hololens to view an AR solar system in class"/> <img src="docs/ar-monument-edudemic.jpg" width="300px" alt="A person holding a phone up and seeing an AR monument"/>
 
