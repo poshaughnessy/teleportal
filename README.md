@@ -13,7 +13,7 @@ Augmented Reality and Virtual Reality can help bring subjects to life and make l
 
 ## Technology Background
 
-Augmented Reality (AR) and Virtual Reality (VR) are on the rise. Virtual Reality is now quite accessible with cheap cardboard-based headsets. Impressive Augmented Reality experiences are now becoming possible with just a mobile phone (for example, making use of ARKit on iOS and ARCore on Android). And both VR and AR are now possible with open web technologies, such as the up-and-coming [WebXR standard](https://github.com/immersive-web/webxr) ("XR" incorporates both Augmented Reality and Virtual Reality, basically meaning "Whichever Kind You Want" Reality!).
+Augmented Reality (AR) and Virtual Reality (VR) are on the rise. Virtual Reality is now quite accessible with cheap cardboard-based headsets. Impressive Augmented Reality experiences are now becoming possible with just a mobile phone (for example, making use of ARKit on iOS and ARCore on Android). And both VR and AR are now possible with web technologies, most notably with the up-and-coming [WebXR standard](https://github.com/immersive-web/webxr) ("XR" incorporates both Augmented Reality and Virtual Reality, basically meaning "Whichever Kind You Want" Reality!).
 
 Mozilla have a WebXR library called [Three.xr.js](https://github.com/mozilla/three.xr.js/) (based on the popular [Three.js](https://threejs.org/)), plus [aframe-xr](https://github.com/mozilla/aframe-xr) (based on [A-Frame](https://aframe.io/)) which makes it possible to develop AR and VR content on the web by writing HTML! 
 
