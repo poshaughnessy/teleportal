@@ -4,7 +4,7 @@
 
 ## The Idea
 
-The idea is to create a free, open repository of Augmented Reality and Virtual Reality content, aimed at educators and students. It would contain 3D assets, categorised/tagged to make them easy to find by topic/curriculum. Teachers and students could then use it to quickly find suitable content for lessons, study or revision.
+Augmented Reality and Virtual Reality can help bring subjects to life, making learning more immersive and exciting! The idea for this project is to create a free, open repository of Augmented Reality and Virtual Reality content / learning experiences, aimed at educators and students. It would contain 3D assets, categorised/tagged to make them easy to find by topic/curriculum. Teachers and students could then use it to quickly find suitable content for lessons, study or revision. They could load the content directly in their web browser, remix it, or embed it in other websites / web applications.
 
 <img src="docs/ar-solar-system-vrscout.jpg" width="300px" alt="A child using a Hololens to view an AR solar system in class"/> <img src="docs/ar-monument-edudemic.jpg" width="300px" alt="A person holding a phone up and seeing an AR monument"/>
 
@@ -13,7 +13,7 @@ The idea is to create a free, open repository of Augmented Reality and Virtual R
 
 ## Technology Background
 
-Augmented Reality (AR) and Virtual Reality (VR) are on the rise. Virtual Reality is now quite accessible with cheap cardboard-based headsets. Impressive Augmented Reality experiences are now becoming possible with just a mobile phone (for example, making use of ARKit on iOS and ARCore on Android). And both VR and AR are now possible with open web technologies, such as the up-and-coming [WebXR standard](https://github.com/immersive-web/webxr) ("XR" incorporates both Augmented Reality and Virtual Reality, basically meaning "Whichever Kind You Want" Reality!).
+Augmented Reality (AR) and Virtual Reality (VR) are on the rise. Virtual Reality is now quite accessible with cheap cardboard-based headsets. Impressive Augmented Reality experiences are now becoming possible with just a mobile phone (for example, making use of ARKit on iOS and ARCore on Android). And both VR and AR are now possible with web technologies, most notably with the up-and-coming [WebXR standard](https://github.com/immersive-web/webxr) ("XR" incorporates both Augmented Reality and Virtual Reality, basically meaning "Whichever Kind You Want" Reality!).
 
 Mozilla have a WebXR library called [Three.xr.js](https://github.com/mozilla/three.xr.js/) (based on the popular [Three.js](https://threejs.org/)), plus [aframe-xr](https://github.com/mozilla/aframe-xr) (based on [A-Frame](https://aframe.io/)) which makes it possible to develop AR and VR content on the web by writing HTML! 
 
@@ -31,18 +31,20 @@ This will grow and evolve, but as a starting point!
  * Make it possible to view the assets in Augmented Reality
  * (If time), make it possible to view the assets in Virtual Reality too
 
+We will use the [Issues list here on Github](https://github.com/poshaughnessy/webxr-for-learning/issues) to create and manage the tasks.
+
 ## What Kind of Help Would Be Useful?
 
 Any of the following kinds of skills/experience would be especially useful:
 
-* Education
+* Education / pedagogy
 * Web design
 * Web development (HTML / CSS / JavaScript)
 * Product management
 * Augmented Reality / Virtual Reality
-* 3D modelling/animation
+* 3D modelling / animation
 
-This is not an exclusive list - any assistance would be welcome!
+(This is not an exclusive list - other assistance would be welcome!)
 
 ## (Expected to be) Frequently Asked Questions
 
