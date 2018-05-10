@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Triceratops Skull</title>
+    <script src='../../vendor/aframe-master.js'></script>
+    <script src='../../vendor/three.xr.js'></script>
+    <script src='../../vendor/aframe-xr.js'></script>
+    <script src="../../vendor/aframe-extras.min.js"></script>
+    <script src="index.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-entity
+        id="triceratops"
+        gltf-model="url(models/scene.gltf)"
+        position="0 0 1"
+        rotation="0 180 0"></a-entity>
+      <a-sky color="#ECECEC" side="back" xr="ar: false"></a-sky>
+    </a-scene>
+  </body>
+</html>

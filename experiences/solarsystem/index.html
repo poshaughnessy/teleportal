@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Solar System</title>
+    <script src='../../vendor/aframe-master.js'></script>
+    <script src='../../vendor/three.xr.js'></script>
+    <script src='../../vendor/aframe-xr.js'></script>
+    <script src="index.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-assets>
+        <a-asset-item id="solarsystem-obj" src="models/solarsystem.obj"></a-asset-item>
+        <a-asset-item id="solarsystem-mtl" src="models/solarsystem.mtl"></a-asset-item>
+      </a-assets>
+      <a-entity
+        obj-model="obj: #solarsystem-obj; mtl: #solarsystem-mtl"
+        scale="1 1 1"
+        rotation="0 0 0"
+        position="0 -50 1"></a-entity>
+      <a-sky color="#ECECEC" side="back" xr="ar: false"></a-sky>
+    </a-scene>
+  </body>
+</html>
