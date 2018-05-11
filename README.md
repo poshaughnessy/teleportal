@@ -1,6 +1,6 @@
-# WebXR for Learning
+# Teleportal ("WebXR for Learning")
 
-"WebXR for Learning" is a working title for [a project idea for Mozilla's Global Sprint](https://github.com/mozilla/global-sprint/issues/295), May 10-11, 2018. Hopefully during the Sprint we can turn this idea into a prototype!
+Teleportal (original project name "WebXR for Learning") is [a project idea for Mozilla's Global Sprint](https://github.com/mozilla/global-sprint/issues/295), May 10-11, 2018. Hopefully during the Sprint we can turn this idea into a prototype!
 
 ## The Idea
 
