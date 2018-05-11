@@ -1,2 +1,5 @@
-Solar system model by Tom Maullin, based on Maya Diffuses Tutorial series:                                            
-https://www.youtube.com/watch?v=5eyKVWkrzts&list=PLsPHRLf6UN4n778LjMnKVG1nw_PX8Lhja
+Solar system model by valmirt:
+https://sketchfab.com/models/d3f058bbe20e4f70b2b52277ff8e109a#
+
+CC By 4.0
+https://creativecommons.org/licenses/by/4.0/
