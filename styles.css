@@ -38,7 +38,7 @@ h2 {
 
 h3 {
   font-size: 1.6em;
-  margin: 1em 0;
+  margin: 1em 0 0.5em 0;
 }
 
 a,
@@ -68,5 +68,33 @@ a:hover {
 .view a {
   border: 1px solid black;
   font-weight: bold;
-  padding: 5px;
+  padding: 5px 10px;
+}
+
+img.thumb {
+  max-width: 100%;
+}
+
+.scenes {
+  display: grid;
+  grid-column-gap: 20px;
+}
+
+@media (min-width: 600px) {
+  .scenes {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 900px) {
+  .scenes {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+.topics span {
+  color: #666;
+  border: 1px solid #666;
+  font-size: 0.8em;
+  padding: 4px;
 }
