@@ -1,6 +1,6 @@
-# Teleportal ("WebXR for Learning")
+# Teleportal (Alpha)
 
-Teleportal (original project name "WebXR for Learning") is [a project idea for Mozilla's Global Sprint](https://github.com/mozilla/global-sprint/issues/295), May 10-11, 2018. Hopefully during the Sprint we can turn this idea into a prototype!
+Teleportal (original project name "WebXR for Learning") is a project that [began at Mozilla's Global Sprint](https://github.com/mozilla/global-sprint/issues/295), May 2018. During the Sprint, we created the first prototype.
 
 ## The Idea
 
@@ -12,7 +12,7 @@ Augmented Reality and Virtual Reality can help bring subjects to life, making le
 
 ## Demo
 
-To try it out, you can access it at [poshaughnessy.github.io/webxr-for-learning/](https://poshaughnessy.github.io/webxr-for-learning/). 
+To try it out, you can access it at [teleportal.org](http//teleportal.org), but please note that it is currently an early alpha version. There are only a couple of sample experiences right now which are very basic. There are also bugs and various issues.
 
 Most web browsers should be able to display the 3D content. To view the experiences in AR or VR, 
 you will need one of the [AR/VR browsers supported by aframe-xr](https://github.com/mozilla/aframe-xr#supported-browsers).
@@ -34,21 +34,11 @@ This project currently uses [aframe-xr](https://github.com/mozilla/aframe-xr) fo
 
 ## To Do List
 
-We will use the [Issues list here on Github](https://github.com/poshaughnessy/webxr-for-learning/issues) to create and manage the tasks.
-
-Essentially over the couple of days, it would be great if we can...
- 
-* Ideate about how the site would work for end-users (e.g. user journey)
-* Ideate about how the site would work for content creators (e.g. upload, moderation?)
-* Initial wireframes and/or website design
-* Create and/or find suitable, free, 3D content to incorporate
-* Develop a prototype website with a few sample assets
-* Make it possible to view the assets in Augmented Reality
-* (If time), make it possible to view the assets in Virtual Reality too
+Thank you very much to the people who assisted at the Global Sprint! I intend to keep working on this in my available time and hopefully get it to the stage where it is ready to be tested out, in a few weeks' time.
 
 ## What Kind of Help Would Be Useful?
 
-Any of the following kinds of skills/experience would be especially useful:
+If you might like to help out, any of the following kinds of skills/experience would be especially useful:
 
 * Education / pedagogy
 * Web design
@@ -56,8 +46,6 @@ Any of the following kinds of skills/experience would be especially useful:
 * Product management
 * Augmented Reality / Virtual Reality
 * 3D modelling / animation
-
-(This is not an exclusive list - other assistance would be welcome!)
 
 ## FAQ
 
@@ -72,3 +60,7 @@ something a bit more like "Wikimedia for XR"!
 
 We hope to make use of some of these other repositories of content though, in order to source suitable
 Creative Commons content.
+
+### What's the business model?
+
+
