@@ -70,3 +70,10 @@ The intention is to provide a free and open resource. Hopefully it can remain fr
 ### When can I try it out?
 
 You could give the very basic alpha version a try now, but please don't have high expectations! When it's ready for proper testing, I'll shout. At that point, I'd be especially keen to find teachers who wish to try it out and provide feedback.
+
+## Thanks
+
+Thank you to:
+
+* Boris van Hoytema for [the logo](https://github.com/poshaughnessy/webxr-for-learning/issues/8#issuecomment-388405872)
+* All the creators of the Creative Commons models (please see the attributions on the website)
