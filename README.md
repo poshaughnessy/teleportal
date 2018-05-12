@@ -63,9 +63,7 @@ something a bit more like "Wikimedia for XR"!
 We hope to make use of some of these other repositories of content though, in order to source suitable
 Creative Commons content.
 
-### What's the business model?
 
-The intention is to provide a free and open resource. Hopefully it can remain free to run too, using services like Github Pages, for as long as possible. If it becomes a success and requires additional resources in the future, I guess we would most likely seek funding via sponsorship or donations, or perhaps some kind of premium tier or support services.
 
 ### When can I try it out?
 
